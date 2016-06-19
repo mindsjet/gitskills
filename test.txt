@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"git branch test on master" 
-=======
-"git branch test on master" 
->>>>>>> freaturel
+git branch test on master
